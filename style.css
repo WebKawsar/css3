@@ -5,12 +5,12 @@
 }
 
 .bat {
-    
+    transition: transform 2s ease-in-out;
 }
 
 
 .bat:hover {
-    transform: rotate(-90deg);
+    transform: rotate(-60deg);
     transform-origin: 100% 0%;
 }
 
